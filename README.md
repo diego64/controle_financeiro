@@ -27,31 +27,6 @@ Foi utilzado o Yarn durante a construção desta base por isso dois avisos:
 - Quando clonar o projeto antes de tudo rode yarn install para ser instalado todas as depencendias
 - Por usar o Yarn a instalação do Eslint foi um pouco mais complexa, se utilizar o npm a isntalação é mais simples
 
-
-
-# Rastreador de despesas
-
-<br/>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=43BD15&labelColor=535353" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=43BD15&labelColor=535353">
-
-  <img alt="languages" src="https://img.shields.io/github/languages/count/diego64/rastreador-de-despesas?color=43BD15">
-
-</p>
-
-
-<br/>
-
-
-<img src="https://github.com/diego64/rastreador-de-despesas/blob/master/tracker.PNG"/>
-
-## Projeto
-
-**Rastrador de despensas** - é uma aplicação de gerenciamento de gastos para ajduar nas suas finanças.
-
 ## Tecnologias utilizadas
 
 - [ReactJS](https://pt-br.reactjs.org/)
