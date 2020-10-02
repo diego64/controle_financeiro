@@ -53,7 +53,7 @@ ou
 $ yarn install
 ```
 
-Agora rode o projeto em modo de desenvolvimento digitando no terminal:
+Agora rode o projeto em modo de desenvolvimento digitando no terminal: 
 
 ```bash
 $ npm start
